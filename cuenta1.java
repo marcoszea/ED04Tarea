@@ -1,5 +1,9 @@
 public class cuenta1 {
 
+	/*
+		Esto es un comentario de ejemplo para el ejercicio 8 :)
+		@author MarcosZea
+	*/
 	
     private String nombre;
     protected String getNombre() {
